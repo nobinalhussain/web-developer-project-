@@ -188,12 +188,12 @@ footer {
 footer-column {
   width: 50%;
 }
-.section-title {
+.column-title {
   text-align: left;
   color: #181818;
   font-size: 35px;
 }
-.section-des {
+.column-des {
   color: #474747;
   text-align: left;
 }
